@@ -9,3 +9,5 @@ of'. Where, K is variable that calculates Sum+1. If the sum is 0, the message is
 the sum is zero, we are adding the x and y values, and we get the sum: 'sum value is displayed'.
 While, for the other cases of the amount, print the message, there cannot be many negatives, you
 please change the values of x or y variables.
+
+plasure can you help me
